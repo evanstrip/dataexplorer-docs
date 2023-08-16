@@ -92,7 +92,7 @@ range _day from _start to _end  step 1d
 
 ### DAU/MAU calculation with additional dimensions
 
-The following example calculates DAU/WAU (Daily Active Users / Weekly Active Users ratio) over a randomly generated data with additional dimension (`mod3`).
+The following example calculates DAU/MAU (Daily Active Users / Monthly Active Users ratio) over a randomly generated data with additional dimension (`mod3`).
 
 > [!div class="nextstepaction"]
 > <a href="https://dataexplorer.azure.com/clusters/help/databases/Samples?query=H4sIAAAAAAAAA2VRwWrDMAy9D/oPojBqtwmJF8oOI4eywk499jRGMLGaeSRxcJTSwj5+shtGx0JisPL03tNTlsEb9ug1IXjdG9eB0aTBnWAa0YOuyZ4tWRwXDy0SVCNpT1AGFJLtUDzl6jnNFb/yZcZgb/4jtmkREazSIFRGX+HkWW5mJHfrg5FwAGUWD9+AFwqlQEaudX0jROxL5yaZKSPvgJ6BYQghN+quXIVJxjIKi5nIrLf52ssE/tw3KuczVVxXEgJFd07xMjAnWFPeiIJVug7oTiK0SmhtZwm4NTx3up0zBTsaydeaxDJcy2XCRPAIBfvOMnjVbT21Ifz97pgddkf2T9ZFkrNup/BnXsGV42l0gx32JN5X1qw+khhjMqeRxADZOX9FzkcQjPEM3n1hTTN6r6fqoKfylzdKrtn/rSXO7ZmK1x/2V38y+Q8r5V3jKAIAAA==" target="_blank">Run the query</a>
